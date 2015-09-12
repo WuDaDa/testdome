@@ -6,8 +6,6 @@ add new line too
 My stupid boss still prefers SVN
 
 
-<<<<<<< HEAD
 lai lailai aaa
-=======
-lai lailai aaaaaaaaa
->>>>>>> featurel
+
+dffdddd
